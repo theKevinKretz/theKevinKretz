@@ -14,7 +14,7 @@
 
 ## Fusioneers
 
-###[GitHub](https://github.com/Fusioneers) | [Website](https://www.fusioneers.space)
+### [GitHub](https://github.com/Fusioneers) | [Website](https://www.fusioneers.space)
 
 ## Open for collaborations
 
