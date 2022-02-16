@@ -1,15 +1,14 @@
 # #Future #Technology #Economy 
 
-## [Personal website](https://www.thekevinkretz.com)
+## [Website](https://www.thekevinkretz.com)
 
 <!--
 ## [hireKevinKretz.com](https://www.hirekevinkretz.com)
 -->
 
-## Personal
-```Baden-Württemberg, Germany```
+```Location: Baden-Württemberg, Germany```
 
-```School: Birklehof, Germany```
+```School: Schule Birklehof, Germany```
 
 <!--
 ## Fusioneers
