@@ -1,6 +1,6 @@
 # #Future #Technology #Economy 
 
-## [Website](https://www.thekevinkretz.com)
+## [theKevinKretz.com](https://www.thekevinkretz.com)
 
 <!--
 ## [hireKevinKretz.com](https://www.hirekevinkretz.com)
